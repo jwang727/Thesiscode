@@ -1,5 +1,5 @@
 This folder contains code used to produce the figures in Chapter 5 of the thesis, *Bayesian Probabilistic Numerical Methods for
-Ordinary and Partial Differential Equations*. Code for this chapter is coded in Python, except for one Matlab script.
+Ordinary and Partial Differential Equations*. Code for this chapter is coded in Python, except for one Matlab script. Python libraries required are numpy, matplotlib and pandas.
 
 all Python scripts contained in this folder can be run on the command line (Windows or Linux), for example:
 
