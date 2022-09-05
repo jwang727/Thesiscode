@@ -4,7 +4,7 @@ for Partial Differential Equations*.
 all Python scripts contained in this folder can be run on the command line (Windows or Linux), for example:
 
 ```
-python3.9 porousmedium.py
+python porousmedium.py
 ```
 
 To reproduce the error and z score plots for the Homogeneous Burger's Equation (Figure 5.2), go to the Burgernoforce folder. Run the Python script Burgernoforce.py, which will produce an output text file containing the errors and z scores, once the script has finished running, subsequently run the Python script Burgernoforcegraph.py, and the required Figures will be saved as pdf files.
