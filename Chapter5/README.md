@@ -1,5 +1,5 @@
-This folder contains code used to produce the figures in Chapter 5 of the thesis, *Approximate Bayesian Inference
-for Partial Differential Equations*. Code for this chapter is coded in Python, except for one Matlab script.
+This folder contains code used to produce the figures in Chapter 5 of the thesis, *Bayesian Probabilistic Numerical Methods for
+Ordinary and Partial Differential Equations*. Code for this chapter is coded in Python, except for one Matlab script.
 
 all Python scripts contained in this folder can be run on the command line (Windows or Linux), for example:
 
@@ -33,4 +33,4 @@ Nset=[65]
 Mset=[65]
 ```
 
-After the script is finished, open surfaceplot.py (inside an IDE like Pycharm), run it and the surface plot in Figure 5.1 will be generated. Note this surface plot will not be saved automatically, but you can manually save it from the pop up. 
+Run the script, after the script is finished, open surfaceplot.py (inside an IDE like Pycharm), run it and the surface plot in Figure 5.1 will be generated. Note this surface plot will not be saved automatically, but you can manually save it from the pop up. 
