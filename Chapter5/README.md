@@ -1,5 +1,5 @@
 This folder contains code used to produce the figures in Chapter 5 of the thesis, *Approximate Bayesian Inference
-for Partial Differential Equations*.
+for Partial Differential Equations*. Code for this chapter is coded in Python, except for one Matlab script.
 
 all Python scripts contained in this folder can be run on the command line (Windows or Linux), for example:
 
