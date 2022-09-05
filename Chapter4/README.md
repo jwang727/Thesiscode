@@ -1,5 +1,5 @@
-This folder contains code used to produce the figures in Chapter 4 of the thesis, *Exact Bayesian Inference for
-Ordinary Differential Equations?*. Code for this chapter is coded in Matlab.
+This folder contains code used to produce the figures in Chapter 4 of the thesis, *Bayesian Probabilistic Numerical Methods for
+Ordinary and Partial Differential Equations*. Code for this chapter is coded in Matlab.
 
 To reproduce Figure 4.3 (Experimental results for the first order ODE), open the Matlab file 'runODEexamples.mlx' in Matlab, which runs code in a 'Live Editor' interactively similar to Jupyter notebooks for Python. I recommend clearing your workspace in Matlab before running the code. Once inside the file, run the blocks of code sequentially by right clicking and selecting 'Run Section' (again similar to Jupyter notebooks). To change the value of n to 50, go to line 29 of the file. The Figures should be produced on the right inside the 'runODEexamples.mlx' Live Editor file. To save the figures, click on a small button on the top right of a figure inside the Live Editor file (that says 'Open in figure window' if you hover over it),  the figure will then pop up in a new window which will have a save option.
 
